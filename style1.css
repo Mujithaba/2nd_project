@@ -150,6 +150,7 @@ color: rgb(255, 255, 255);
 }
 .discription:hover{
     color: rgb(251, 8, 8);
+    text-decoration: underline;
 }
 .b2 img{
     width: 28px;
